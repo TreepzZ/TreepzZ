@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudando e criando projetos através das tecnologias HTML5, JS E CSS<br>- Android Studio  para criação de apps <br>- Auxiliar Administrativo</p>
+<p align="left">Atualmente sou formado em Ciência da Computação, estou estudando e criando projetos através das tecnologias html, js e css. Estou atuando como auxiliar administrativo na empresa HBR Engenharia na criação de dashboards utilizando o Power BI.</p>
 
 ###
 
@@ -36,14 +36,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TreepzZ&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TreepzZ/TreepzZ/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TreepzZ/TreepzZ/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TreepzZ/TreepzZ/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://raw.githubusercontent.com/TreepzZ/TreepzZ/output/snake.svg" alt="Snake animation" />
 
 ###
 
