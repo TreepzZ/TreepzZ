@@ -26,8 +26,7 @@
  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="40" alt="SQL logo"  />
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" alt="Python logo"  />
 <img src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" height="40" alt="Linux logo"  />
-<img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="40" alt="SQL logo"  />
-  
+
 </div>
 
 ###
