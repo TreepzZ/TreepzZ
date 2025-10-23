@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpower-bi-logo-microsoft--268456827780631542%2F&psig=AOvVaw0OQF4BI-aR6_t2gn25rGy3&ust=1761335637031000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPi_rN2Mu5ADFQAAAAAdAAAAABAX" height="40" alt="linkedin logo"  />
 </div>
 
 ###
