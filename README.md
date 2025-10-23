@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente sou formado em Ciência da Computação, estou estudando e criando projetos através das tecnologias html, js e css. Estou atuando como auxiliar administrativo na empresa HBR Engenharia na criação de dashboards utilizando o Power BI.</p>
+<p align="left">Atualmente formado em Ciência da Computação e cursando uma Pós-Graduação em Ciência de Dados, Estou estagiando como analista de dados na empresa HBR Engenharia na criação de dashboards utilizando o Power BI, mantendo o controle de inventários de T.I e gerenciando o ERP conhecido como Sienge para autorização de ações para usuários e perfis dentro da plataforma.</p>
 
 ###
 
